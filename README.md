@@ -1,6 +1,6 @@
 # CQSUMDP
 
-### EMNLP 2023 Findings Paper: [Can Large Language Models Fix Data Annotation Errors? An Empirical Study Using Debatepedia for Query-Focused Text Summarization](https://aclanthology.org/2023.findings-emnlp.686/)
+### The Dataset for the EMNLP 2023 Findings Paper: [Can Large Language Models Fix Data Annotation Errors? An Empirical Study Using Debatepedia for Query-Focused Text Summarization](https://aclanthology.org/2023.findings-emnlp.686/)
 
 The dataset is available here: https://drive.google.com/drive/folders/172qZJDwzQK0wbB_vqEd9EA7U8vuYPfYp?usp=sharing
 
